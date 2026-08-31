@@ -62,12 +62,7 @@ If leadership must choose one ₹10 Cr area, **Better Borrower Targeting** is th
 - **Correlation** - association that may be confounded.
 - **Hypothesis** - requires an experiment or additional data.
 
-## How to run
 
-```bash
-pip install -r requirements.txt
-jupyter notebook notebooks/collections_forensic_analysis.ipynb
-```
 
 
 ## Submission note

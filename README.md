@@ -1,4 +1,8 @@
-# CredResolve Collections Analytics - Forensic Data Analyst Assignment
+<h1 align="center"> CredResolve Collections Analytics - Forensic Data Analyst Assignment
+</h1>
+<p align="center">
+  <img src="ecommerce.png" alt="ecommerce" height="500" width= "1000">
+</p
 
 ## Executive answer
 

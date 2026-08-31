@@ -69,18 +69,6 @@ pip install -r requirements.txt
 jupyter notebook notebooks/collections_forensic_analysis.ipynb
 ```
 
-For SQL, DuckDB is the easiest local engine:
-
-```bash
-duckdb collections.duckdb
-.read sql/01_staging/01_source_views.sql
-.read sql/02_cleaning/01_clean_payments.sql
-.read sql/02_cleaning/02_entity_resolution.sql
-.read sql/03_golden/01_golden_account_month.sql
-.read sql/04_metrics/01_recovery_metrics.sql
-```
-
-Open `dashboard/executive_dashboard.html` in a browser for hoverable values and the 60-second CEO view.
 
 ## Submission note
 

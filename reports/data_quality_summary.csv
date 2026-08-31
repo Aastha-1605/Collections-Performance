@@ -1,0 +1,28 @@
+dataset,rows,exact_duplicate_rows,missing_cells_pct,issue
+borrowers,30600,600,0.616,
+accounts,30000,0,0.138,
+agents,30000,0,0.0,
+agent_sessions,15000,0,0.0,
+campaigns,120,0,0.0,
+daily_targeting,45000,0,0.0,
+calls,91350,1271,0.182,
+call_attempts,120000,0,0.222,
+call_dispositions,35000,0,0.0,
+whatsapp_events,60600,600,0.0,
+sms_events,45000,0,0.0,
+field_visits,25000,0,0.1,
+promises_to_pay,18000,0,0.0,
+payments,25500,486,0.166,
+vendor_telephony,15,0,0.0,
+complaints,8000,0,0.0,
+account_status_history,60000,0,0.0,
+calls [forensic],91350,,,event borrower_id disagrees with account master in 98.46% of rows
+call_attempts [forensic],120000,,,event borrower_id disagrees with account master in 98.44% of rows
+call_dispositions [forensic],35000,,,event borrower_id disagrees with account master in 98.50% of rows
+payments [forensic],25500,,,event borrower_id disagrees with account master in 98.48% of rows
+promises_to_pay [forensic],18000,,,event borrower_id disagrees with account master in 98.37% of rows
+whatsapp_events [forensic],60600,,,event borrower_id disagrees with account master in 98.47% of rows
+sms_events [forensic],45000,,,event borrower_id disagrees with account master in 98.36% of rows
+field_visits [forensic],25000,,,event borrower_id disagrees with account master in 98.48% of rows
+complaints [forensic],8000,,,event borrower_id disagrees with account master in 98.65% of rows
+account_status_history [forensic],60000,,,event borrower_id disagrees with account master in 98.39% of rows

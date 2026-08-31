@@ -1,0 +1,15 @@
+{
+  "claim_raw_pct": 10.99161081383222,
+  "claim_clean_pct": 11.031885249801654,
+  "targeted_rate_change_pct": 25.862594589642597,
+  "mix_adjusted_pct": 26.168723402132787,
+  "bootstrap_ci": [
+    7.877843718766184,
+    47.87230119338555
+  ],
+  "trend_p": 0.8909280149894161,
+  "annualized_exposure": 23526742404.72,
+  "breakeven_lift_pp": 0.4250482207852869,
+  "observed_targeting_lift_pp": 0.19950995546346786,
+  "golden_rows": 40710
+}

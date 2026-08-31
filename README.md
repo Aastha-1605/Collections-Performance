@@ -36,7 +36,8 @@ If leadership must choose one ₹10 Cr area, **Better Borrower Targeting** is th
 │   ├── Full_Analysis_Report.docx
 │   └── Executive_Memo.pdf
 ├── architecture diagram/          
-├── src/                  
+├── src/
+├── requirements/                
 └── README.md
 ```
 

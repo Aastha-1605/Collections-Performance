@@ -26,17 +26,17 @@ If leadership must choose one ₹10 Cr area, **Better Borrower Targeting** is th
 ```text
 .
 ├── data/
-│   ├── raw/                 # supplied 17 relational datasets + dictionary
-│   └── golden/              # reconciled account-month analytical layer + outputs
-├── sql/                     # staging → cleaning → golden → metrics → forensics
-├── notebooks/               # executed reasoning notebook
-├── dashboard/               # one-screen interactive Plotly HTML dashboard
+│   ├── raw/                
+│   └── golden/              
+├── sql/                    
+├── notebooks/               
+├── dashboard/              
 ├── reports/
-│   ├── charts/              # seaborn/matplotlib figures
+│   ├── charts/            
 │   ├── Full_Analysis_Report.docx
 │   └── Executive_Memo.pdf
-├── architecture/            # production analytics architecture
-├── src/                     # documented pipeline rules
+├── architecture diagram/          
+├── src/                  
 └── README.md
 ```
 

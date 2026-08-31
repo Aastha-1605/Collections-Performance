@@ -4,7 +4,7 @@
   <img src="Dashboard.png" alt="Dashbaord" height="500" width= "1000">
 </p
 
-## Executive answer
+# Executive answer
 
 **The reported “Recovery improved by 11% MoM” is numerically correct for February → March 2026, but it is not evidence of a sustained operational improvement.** Raw successful-payment recovery rises **10.99%**; after payment-ID deduplication it rises **11.03%**. On a more defensible targeted-exposure denominator, recovery rate rises **25.86%** and the February-mix-adjusted change is **26.17%**. However, Jan-Jul recovery shows no sustained trend (p=0.89), and April reverses part of the March spike.
 
